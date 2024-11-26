@@ -1,5 +1,7 @@
-# Decomp_Dilemmas
-This repository will provide the source code for the paper: *Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?* 
+# Decomposition Dilemmas
+[![arxiv](https://img.shields.io/badge/arXiv-2411.02400-b31b1b.svg)](https://arxiv.org/pdf/2411.02400)
+
+This repository provides the source code for the paper: *Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?* 
 
 ![overview](./img/pipeline.png)
 

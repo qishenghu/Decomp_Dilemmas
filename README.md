@@ -1,5 +1,5 @@
 # Decomposition Dilemmas
-[![arxiv](https://img.shields.io/badge/arXiv-2411.02400-b31b1b.svg)](https://arxiv.org/pdf/2411.02400)
+[![NAACL_2025](https://img.shields.io/badge/NAACL_2025-b31b1b.svg)](https://aclanthology.org/2025.naacl-long.320/)
 
 This repository provides the source code for the paper: *Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?* 
 
@@ -44,14 +44,14 @@ python3 src/pipeline_nli.py \
 ## Citation
 Feel free to cite our paper if you find our insights useful for your research.
 ```bibtex
-@misc{hu2024decompositiondilemmasdoesclaim,
-      title={Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?}, 
-      author={Qisheng Hu and Quanyu Long and Wenya Wang},
-      year={2024},
-      eprint={2411.02400},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR},
-      url={https://arxiv.org/abs/2411.02400}, 
+@inproceedings{hu-etal-2025-decomposition,
+    title = "Decomposition Dilemmas: Does Claim Decomposition Boost or Burden Fact-Checking Performance?",
+    author = "Hu, Qisheng and Long, Quanyu and Wang, Wenya",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    url = "https://aclanthology.org/2025.naacl-long.320/",
+    pages = "6313--6336",
 }
 ```
 
